@@ -1,0 +1,2 @@
+export const AMPLITUDE_API_KEY =
+  process.env.EXPO_PUBLIC_AMPLITUDE_API_KEY ?? "";
